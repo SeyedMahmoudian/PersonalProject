@@ -1,0 +1,9 @@
+/home/pi/Desktop/Home
+/home/pi/Desktop/Home
+  File "telegrambot.py", line 14
+    bot.sendMessage(chat_id, "Type IP or ip or /Ip or IP")
+      ^
+IndentationError: expected an indented block
+/home/pi/Desktop/Home
+/home/pi/Desktop/Home
+/home/pi/Desktop/Home
